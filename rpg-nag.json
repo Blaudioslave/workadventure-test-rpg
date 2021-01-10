@@ -68,6 +68,12 @@
                  "y":582.5
                 }],
          "opacity":1,
+         "properties":[
+                {
+                 "name":"text",
+                 "type":"string",
+                 "value":"Hallo Welt! :)"
+                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
