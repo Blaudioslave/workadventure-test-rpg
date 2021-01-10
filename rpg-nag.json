@@ -30,9 +30,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"startLayer",
-                 "type":"string",
-                 "value":"https://play.workadventu.re/_/global/raw.githubusercontent.com/pinki99/nachfeierabend/main/gartenanlagen.json#start"
+                 "name":"entryLayer",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
