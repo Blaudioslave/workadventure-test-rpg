@@ -48,39 +48,6 @@
         }, 
         {
          "draworder":"topdown",
-         "id":6,
-         "name":"text",
-         "objects":[
-                {
-                 "height":19,
-                 "id":2,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "text":"Hallo Welt",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":81.921875,
-                 "x":881.705729166667,
-                 "y":582.5
-                }],
-         "opacity":1,
-         "properties":[
-                {
-                 "name":"text",
-                 "type":"string",
-                 "value":"Hallo Welt! :)"
-                }],
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
          "id":2,
          "name":"floorLayer",
          "objects":[],
