@@ -1,4 +1,12 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"rpg-nag.json"
+        }
+    },
  "height":50,
  "infinite":false,
  "layers":[
@@ -40,6 +48,33 @@
         }, 
         {
          "draworder":"topdown",
+         "id":6,
+         "name":"text",
+         "objects":[
+                {
+                 "height":19,
+                 "id":2,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Hallo Welt",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":81.921875,
+                 "x":881.705729166667,
+                 "y":582.5
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":2,
          "name":"floorLayer",
          "objects":[],
@@ -49,8 +84,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":6,
- "nextobjectid":1,
+ "nextlayerid":7,
+ "nextobjectid":3,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
